@@ -16,11 +16,7 @@
                     <thead>
                         <tr>
 
-                            <th>Codigo</th>
-                            <th>Producto</th>
-                            <th>Precio</th>
-                            <th>Fecha de Compra</th>
-                            <th>Cantidad</th>
+                            
 
                         </tr>
                     </thead>

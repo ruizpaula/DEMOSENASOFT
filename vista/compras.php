@@ -25,7 +25,7 @@
                         <label for="nombre_prod">Producto:</label>
                         <div class="form-group py-2">
                             <select class="form-select fs-6" value="" name="prod_nombre">
-                                <option selected>Selecciona el Producto</option>
+                                <option selected>Selecciona el PRODUCTOOOOOOOOOO</option>
                             </select>
                         </div>
                         
